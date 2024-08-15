@@ -18,6 +18,13 @@
 11. <a href="https://www.linkedin.com/learning-login/share?account=95141346&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fgithub-advanced-security-cert-prep-by-microsoft-press%3Ftrk%3Dshare_ent_url%26shareId%3Dj2KC15A1T2ikT9mmPc4rwQ%253D%253D" target="_blank">LINKEDIN LEARNING-GitHub Advanced Security Cert Prep by Microsoft Press</a>
 12. <a href="https://docs.github.com/en" target="_blank">Github Documentation</a>
 
+# SOFTWARE TESTING
+## LAMBDATEST
+1. <a href="https://www.lambdatest.com/learning-hub/" target="_blank">LambdaTest Learning Hub</a>
+1. <a href="https://www.lambdatest.com/video/" target="_blank">LambdaTest Videos</a>
+1. <a href="https://www.lambdatest.com/support/docs/" target="_blank">LambdaTest Documentation</a>
+1. <a href="https://www.lambdatest.com/certifications/" target="_blank">LambdaTest Certifications</a>
+
 # DATABASE
 ## NEO4J
 1. <a href="https://graphacademy.neo4j.com/categories/" target="_blank">Courses</a>
