@@ -1,5 +1,3 @@
-# VersionControlMasterRepo
-
 # GITHUB RESOURCES
 1. <a href="https://learn.microsoft.com/en-us/collections/o1njfe825p602p?source=docs&sharingId=11F88745A88DCED9" target="_blank">MICROSOFT LEARN-Github Foundations</a>
 2. <a href="https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5?&sharingId=11F88745A88DCED9" target="_blank">MICROSOFT LEARN-Github Actions</a>
