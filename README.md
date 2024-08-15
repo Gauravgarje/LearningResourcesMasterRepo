@@ -1,9 +1,10 @@
-# GIT RESOURCES
+# VERSION CONTROL
+## GIT RESOURCES
 1. <a href="https://git-scm.com/about" target="_blank">About Git</a>
 1. <a href="https://git-scm.com/doc" target="_blank">Documenation</a>
 1. <a href="https://git-scm.com/videos" target="_blank">Videos</a>
 
-# GITHUB RESOURCES
+## GITHUB RESOURCES
 1. <a href="https://learn.microsoft.com/en-us/collections/o1njfe825p602p?source=docs&sharingId=11F88745A88DCED9" target="_blank">MICROSOFT LEARN-Github Foundations</a>
 2. <a href="https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5?&sharingId=11F88745A88DCED9" target="_blank">MICROSOFT LEARN-Github Actions</a>
 3. <a href="https://learn.microsoft.com/en-us/collections/mom7u1gzjdxw03?&sharingId=11F88745A88DCED9" target="_blank">MICROSOFT LEARN-Github Administration</a>
