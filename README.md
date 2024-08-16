@@ -18,6 +18,13 @@
 11. <a href="https://www.linkedin.com/learning-login/share?account=95141346&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fgithub-advanced-security-cert-prep-by-microsoft-press%3Ftrk%3Dshare_ent_url%26shareId%3Dj2KC15A1T2ikT9mmPc4rwQ%253D%253D" target="_blank">LINKEDIN LEARNING-GitHub Advanced Security Cert Prep by Microsoft Press</a>
 12. <a href="https://docs.github.com/en" target="_blank">Github Documentation</a>
 
+# BUILD TOOLS
+## GRADLE
+- <a href="https://dpeuniversity.gradle.com/app/learning_paths" target="_blank">Gradle DPE University-Learning Paths</a>
+- <a href="https://dpeuniversity.gradle.com/app/catalog" target="_blank">Gradle DPE University-Courses</a>
+- <a href="https://dpeuniversity.gradle.com/app/certifications" target="_blank">Gradle DPE University-Certificates</a>
+
+
 # SOFTWARE TESTING
 ## LAMBDATEST
 1. <a href="https://www.lambdatest.com/learning-hub/" target="_blank">LambdaTest Learning Hub</a>
