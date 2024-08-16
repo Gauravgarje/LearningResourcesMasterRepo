@@ -20,6 +20,8 @@
 
 # ORACLE
 - <a href="https://education.oracle.com/learning-explorer#startLearning" target="_blank">Oracle Learning Exploreer</a>
+# SNOWFLAKE
+- <a href="https://learn.snowflake.com/en/pages/hands-on-essentials-track/" target="_blank">Snowflake</a>
 
 
 # AWS SKILL BUILDER
