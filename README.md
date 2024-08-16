@@ -18,6 +18,10 @@
 11. <a href="https://www.linkedin.com/learning-login/share?account=95141346&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fgithub-advanced-security-cert-prep-by-microsoft-press%3Ftrk%3Dshare_ent_url%26shareId%3Dj2KC15A1T2ikT9mmPc4rwQ%253D%253D" target="_blank">LINKEDIN LEARNING-GitHub Advanced Security Cert Prep by Microsoft Press</a>
 12. <a href="https://docs.github.com/en" target="_blank">Github Documentation</a>
 
+# ORACLE
+- <a href="https://education.oracle.com/learning-explorer#startLearning" target="_blank">Oracle Learning Exploreer</a>
+
+
 # AWS SKILL BUILDER
 - <a href="https://skillbuilder.aws/" target="_blank">AWS Skill Builder</a>
 
