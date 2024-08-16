@@ -23,7 +23,10 @@
 - <a href="https://dpeuniversity.gradle.com/app/learning_paths" target="_blank">Gradle DPE University-Learning Paths</a>
 - <a href="https://dpeuniversity.gradle.com/app/catalog" target="_blank">Gradle DPE University-Courses</a>
 - <a href="https://dpeuniversity.gradle.com/app/certifications" target="_blank">Gradle DPE University-Certificates</a>
+
 - <a href="https://github.com/gradle/dpeuni-gradle-incremental-and-caching-local" target="_blank">Gradle DPE University-Incremental Build and Local Caching</a>
+- <a href="https://gradle.org/install/?_gl=1*thm9pc*_gcl_au*MTE0OTE5ODk5Mi4xNzIzODI2MTQz*_ga*MTYzODk5MDA1OS4xNzIzODI2MTQz*_ga_7W7NC6YNPT*MTcyMzgyNjE0My4xLjEuMTcyMzgyNjYxNy41OC4wLjA." target="_blank">Gradle Installation</a>
+- <a href="https://docs.gradle.org/current/userguide/compatibility.html?_gl=1*thm9pc*_gcl_au*MTE0OTE5ODk5Mi4xNzIzODI2MTQz*_ga*MTYzODk5MDA1OS4xNzIzODI2MTQz*_ga_7W7NC6YNPT*MTcyMzgyNjE0My4xLjEuMTcyMzgyNjYxNy41OC4wLjA." target="_blank">Java-Gradle Version Compatablity Matrix</a>
 
 
 # SOFTWARE TESTING
