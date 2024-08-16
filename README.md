@@ -23,6 +23,7 @@
 - <a href="https://dpeuniversity.gradle.com/app/learning_paths" target="_blank">Gradle DPE University-Learning Paths</a>
 - <a href="https://dpeuniversity.gradle.com/app/catalog" target="_blank">Gradle DPE University-Courses</a>
 - <a href="https://dpeuniversity.gradle.com/app/certifications" target="_blank">Gradle DPE University-Certificates</a>
+- <a href="https://github.com/gradle/dpeuni-gradle-incremental-and-caching-local" target="_blank">Gradle DPE University-Incremental Build and Local Caching</a>
 
 
 # SOFTWARE TESTING
