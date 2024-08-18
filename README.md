@@ -49,6 +49,7 @@
 # COMPETITIVE CODING
 ## DATA STRUCTURES
 - Youtube-Data Structures by William Fiset [<a href="https://youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&si=SV1TSlKKHES_H4VJ" target="_blank">link</a>]
+- Repo Link [<a href="https://github.com/williamfiset/DEPRECATED-data-structures" target="_blank">link</a>]
 
 # DATABASE
 ## NEO4J
