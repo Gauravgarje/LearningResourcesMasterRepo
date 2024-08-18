@@ -46,6 +46,10 @@
 1. <a href="https://www.lambdatest.com/support/docs/" target="_blank">LambdaTest Documentation</a>
 1. <a href="https://www.lambdatest.com/certifications/" target="_blank">LambdaTest Certifications</a>
 
+# COMPETITIVE CODING
+## DATA STRUCTURES
+- Youtube-Data Structures by William Fiset [<a href="https://youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&si=SV1TSlKKHES_H4VJ" target="_blank">link</a>]
+
 # DATABASE
 ## NEO4J
 1. <a href="https://graphacademy.neo4j.com/categories/" target="_blank">Courses</a>
