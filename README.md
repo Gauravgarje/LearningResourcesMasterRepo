@@ -30,6 +30,8 @@
 
 # BUILD TOOLS
 ## GRADLE
+- <a href="https://dpeuniversity.gradle.com/app/courses/012de84f-fcd3-45d4-9c4c-284382eb3f3f/?_gl=1*1ctwc33*_gcl_au*MTY0NDYxMzA5OC4xNzI3NzkwNTQ2*_ga*MTgyMjI3NTI3NS4xNzI3NzkwNTQ2*_ga_7W7NC6YNPT*MTcyNzgwNDExOS4zLjEuMTcyNzgwNDUxOC40My4wLjA." target="_blank">Gradle DPE University-Introduction to Gradle For Developers</a>
+
 - <a href="https://dpeuniversity.gradle.com/app/learning_paths" target="_blank">Gradle DPE University-Learning Paths</a>
 - <a href="https://dpeuniversity.gradle.com/app/catalog" target="_blank">Gradle DPE University-Courses</a>
 - <a href="https://dpeuniversity.gradle.com/app/certifications" target="_blank">Gradle DPE University-Certificates</a>
