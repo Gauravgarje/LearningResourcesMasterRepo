@@ -41,7 +41,11 @@
 - <a href="https://dpeuniversity.gradle.com/app/courses/4fcbecbc-7cff-449a-a509-07cf70403f0c" target="_blank">Gradle DPE University-Maintaining Optimal Gradle Build Cache Performance</a>
 - <a href="https://dpeuniversity.gradle.com/app/courses/f7111189-93e5-4261-83a0-9d07082b7330" target="_blank">Gradle DPE University-Maven Build Cache Deep Dive</a>
 - <a href="https://dpeuniversity.gradle.com/app/courses/2a033c85-e9dd-4a82-8511-b876ee500e3c" target="_blank">Gradle DPE University-Maintaining Optimal Maven Build Cache Performance</a>
-- <a href="https://docs.gradle.org/current/userguide/userguide.html" target="_blank">Gradle Official Documentation-Gradle User Manual</a>
+- <a href="https://docs.gradle.org/current/userguide/userguide.html" target="_blank">Gradle Official Website-Gradle User Manual</a>
+- <a href="https://gradle.org/releases/" target="_blank">Gradle Official Website-Gradle Releases</a>
+- <a href="https://gradle.org/maven-vs-gradle/" target="_blank">Gradle Official Website-Gradle vs Maven Comparison</a>
+- <a href="https://plugins.gradle.org/?_gl=1*rtop3r*_gcl_au*MTY0NDYxMzA5OC4xNzI3NzkwNTQ2*_ga*MTgyMjI3NTI3NS4xNzI3NzkwNTQ2*_ga_7W7NC6YNPT*MTcyNzkzMTE4NS45LjEuMTcyNzkzNDA2Mi4zNi4wLjA." target="_blank">Gradle Official Website-Gradle Plugins Search Tool</a>
+- <a href="https://scans.gradle.com/?_gl=1*10b52wo*_gcl_au*MTY0NDYxMzA5OC4xNzI3NzkwNTQ2*_ga*MTgyMjI3NTI3NS4xNzI3NzkwNTQ2*_ga_7W7NC6YNPT*MTcyNzkzMTE4NS45LjEuMTcyNzkzNDE5Ny4yOC4wLjA.#gradle" target="_blank">Gradle Official Website-Gradle Build Scan</a>
 
 
 # SOFTWARE TESTING
