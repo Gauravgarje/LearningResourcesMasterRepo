@@ -31,6 +31,15 @@
 # BUILD TOOLS
 ## GRADLE
 - <a href="https://dpeuniversity.gradle.com/app/courses/012de84f-fcd3-45d4-9c4c-284382eb3f3f/?_gl=1*1ctwc33*_gcl_au*MTY0NDYxMzA5OC4xNzI3NzkwNTQ2*_ga*MTgyMjI3NTI3NS4xNzI3NzkwNTQ2*_ga_7W7NC6YNPT*MTcyNzgwNDExOS4zLjEuMTcyNzgwNDUxOC40My4wLjA." target="_blank">Gradle DPE University-Introduction to Gradle For Developers</a>
+- <a href="https://dpeuniversity.gradle.com/app/courses/ec69d0b8-9171-4969-ac3e-82dea16f87b0" target="_blank">Gradle DPE University-Incremental Builds and Build Caching with Gradle</a>
+- <a href="https://dpeuniversity.gradle.com/app/courses/54469478-55ba-416d-9cef-3b5aa33dd2a5" target="_blank">Gradle DPE University-Gradle Build Cache Deep Dive</a>
+- <a href="https://dpeuniversity.gradle.com/app/courses/e79a2654-6854-4705-9bcd-c03a8de10401" target="_blank">Gradle DPE University-Introduction to Develocity</a>
+- <a href="https://dpeuniversity.gradle.com/app/courses/536c7293-ffe8-4d1b-8875-8003498fba03" target="_blank">Gradle DPE University-Introduction to DPE</a>
+- <a href="https://dpeuniversity.gradle.com/app/courses/b5069222-cfd0-4393-b645-7a2c713853d5" target="_blank">Gradle DPE University-How to use Build Scan</a>
+- <a href="https://dpeuniversity.gradle.com/app/courses/eae82987-b490-450e-a469-55518c926020" target="_blank">Gradle DPE University-Incremental Builds and Build Caching with Gradle and Develocity</a>
+- <a href="https://dpeuniversity.gradle.com/app/courses/4fcbecbc-7cff-449a-a509-07cf70403f0c" target="_blank">Gradle DPE University-Maintaining Optimal Gradle Build Cache Performance</a>
+- <a href="https://dpeuniversity.gradle.com/app/courses/f7111189-93e5-4261-83a0-9d07082b7330" target="_blank">Gradle DPE University-Maven Build Cache Deep Dive</a>
+- <a href="https://dpeuniversity.gradle.com/app/courses/2a033c85-e9dd-4a82-8511-b876ee500e3c" target="_blank">Gradle DPE University-Maintaining Optimal Maven Build Cache Performance</a>
 
 - <a href="https://dpeuniversity.gradle.com/app/learning_paths" target="_blank">Gradle DPE University-Learning Paths</a>
 - <a href="https://dpeuniversity.gradle.com/app/catalog" target="_blank">Gradle DPE University-Courses</a>
