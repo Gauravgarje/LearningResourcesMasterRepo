@@ -30,6 +30,7 @@
 
 # BUILD TOOLS
 ## GRADLE
+- <a href="https://dpeuniversity.gradle.com/app/learning_paths" target="_blank">Gradle DPE University-Learning Paths</a>
 - <a href="https://dpeuniversity.gradle.com/app/courses/012de84f-fcd3-45d4-9c4c-284382eb3f3f/?_gl=1*1ctwc33*_gcl_au*MTY0NDYxMzA5OC4xNzI3NzkwNTQ2*_ga*MTgyMjI3NTI3NS4xNzI3NzkwNTQ2*_ga_7W7NC6YNPT*MTcyNzgwNDExOS4zLjEuMTcyNzgwNDUxOC40My4wLjA." target="_blank">Gradle DPE University-Introduction to Gradle For Developers</a>
 - <a href="https://dpeuniversity.gradle.com/app/courses/ec69d0b8-9171-4969-ac3e-82dea16f87b0" target="_blank">Gradle DPE University-Incremental Builds and Build Caching with Gradle</a>
 - <a href="https://dpeuniversity.gradle.com/app/courses/54469478-55ba-416d-9cef-3b5aa33dd2a5" target="_blank">Gradle DPE University-Gradle Build Cache Deep Dive</a>
@@ -40,14 +41,7 @@
 - <a href="https://dpeuniversity.gradle.com/app/courses/4fcbecbc-7cff-449a-a509-07cf70403f0c" target="_blank">Gradle DPE University-Maintaining Optimal Gradle Build Cache Performance</a>
 - <a href="https://dpeuniversity.gradle.com/app/courses/f7111189-93e5-4261-83a0-9d07082b7330" target="_blank">Gradle DPE University-Maven Build Cache Deep Dive</a>
 - <a href="https://dpeuniversity.gradle.com/app/courses/2a033c85-e9dd-4a82-8511-b876ee500e3c" target="_blank">Gradle DPE University-Maintaining Optimal Maven Build Cache Performance</a>
-
-- <a href="https://dpeuniversity.gradle.com/app/learning_paths" target="_blank">Gradle DPE University-Learning Paths</a>
-- <a href="https://dpeuniversity.gradle.com/app/catalog" target="_blank">Gradle DPE University-Courses</a>
-- <a href="https://dpeuniversity.gradle.com/app/certifications" target="_blank">Gradle DPE University-Certificates</a>
-
-- <a href="https://github.com/gradle/dpeuni-gradle-incremental-and-caching-local" target="_blank">Gradle DPE University-Incremental Build and Local Caching</a>
-- <a href="https://gradle.org/install/?_gl=1*thm9pc*_gcl_au*MTE0OTE5ODk5Mi4xNzIzODI2MTQz*_ga*MTYzODk5MDA1OS4xNzIzODI2MTQz*_ga_7W7NC6YNPT*MTcyMzgyNjE0My4xLjEuMTcyMzgyNjYxNy41OC4wLjA." target="_blank">Gradle Installation</a>
-- <a href="https://docs.gradle.org/current/userguide/compatibility.html?_gl=1*thm9pc*_gcl_au*MTE0OTE5ODk5Mi4xNzIzODI2MTQz*_ga*MTYzODk5MDA1OS4xNzIzODI2MTQz*_ga_7W7NC6YNPT*MTcyMzgyNjE0My4xLjEuMTcyMzgyNjYxNy41OC4wLjA." target="_blank">Java-Gradle Version Compatablity Matrix</a>
+- <a href="https://docs.gradle.org/current/userguide/userguide.html" target="_blank">Gradle Official Documentation-Gradle User Manual</a>
 
 
 # SOFTWARE TESTING
